@@ -5,7 +5,7 @@ Comandos Básicos da Linguagem SQL</a>
     Repositório com um arquivo TXT de 700 linhas mostrando os principais comandos SQL sua sintaxe e exemplos.
 </p>
 
-<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/COMANDOS-BASICOS-SQL/.github/Imagem.JPG" />  </h2>
+<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/COMANDOS-BASICOS-SQL/blob/master/.github/Imagem.JPG" />  </h2>
 
 <h4 align="center">
 	🚧   Concluído 🚀 🚧
