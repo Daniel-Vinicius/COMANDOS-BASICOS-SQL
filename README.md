@@ -37,11 +37,13 @@ Projeto desenvolvido baseado no curso: **Curso SQL Completo 2019 [Iniciantes] + 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
 <a href="https://www.microsoft.com/pt-br/download/details.aspx?id=55994">SQL SERVER</a>
+
 Como instalar:  https://youtu.be/rX2I7OjLqWE?t=46
 
 
-Quando você clicar no link acima será redirecionado a página abaixo, nela selecione a opção grifada em amarelo e quando baixado, vá até a pasta downloads, e execute o arquivo. 
-<img  alt="página de download"  src="assets/imagem-dowload.JPG"> 
+Quando você clicar no link SQL SERVER será redirecionado a página abaixo, nela selecione a opção grifada em amarelo e quando baixado, vá até a pasta downloads, e execute o arquivo.
+
+<img  alt="página de download"  src="https://github.com/Daniel-Vinicius/COMANDOS-BASICOS-SQL/blob/master/.github/Imagem.JPG"> 
 
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
