@@ -5,6 +5,12 @@ Comandos Básicos da Linguagem SQL</a>
     Repositório com um arquivo TXT de 700 linhas mostrando os principais comandos SQL sua sintaxe e exemplos.
 </p>
 
+![](https://img.shields.io/apm/l/vim-mode)
+
+![](https://img.shields.io/badge/languege-Portuguese-yellow)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Daniel-Vinicius/COMANDOS-BASICOS-SQL?style=social)
+
 <h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/COMANDOS-BASICOS-SQL/blob/master/.github/Imagem.JPG" />  </h2>
 
 <h4 align="center">
