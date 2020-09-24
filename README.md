@@ -190,7 +190,7 @@ width="100px;"  alt="Nome do contribuidor"/>
 
 ---
 
-### 🦸 Autor <a id="autor"> </a>
+### 🦸‍♂️ Autor <a id="autor"> </a>
 
 
 <a href="https://github.com/Daniel-Vinicius" style="text-decoration: none;">
