@@ -6,9 +6,7 @@ Comandos Básicos da Linguagem SQL</a>
 </p>
 
 ![](https://img.shields.io/apm/l/vim-mode)
-
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Daniel-Vinicius/COMANDOS-BASICOS-SQL?style=social)
 
 <h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/COMANDOS-BASICOS-SQL/blob/master/.github/Imagem.JPG" />  </h2>
@@ -181,12 +179,6 @@ width="100px;"  alt="Nome do contribuidor"/>
   
 
 </table>
-
-### 💪 Como contribuir no projeto
-
-1.Você pode entrar em contato no <a href="https://t.me/DanielVini"> meu Telegram </a> ou contribuir normalmente
-
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
 ---
 
